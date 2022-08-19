@@ -46,8 +46,9 @@ hr {
 }
 
 .subjectright {
-  margin-left: 95%;
-  padding-left: 95%;
+  margin-right: 5%;
+  padding-right: 5%;
+  float: right;
 }
 
 img {
