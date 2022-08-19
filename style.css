@@ -1,21 +1,28 @@
 body {
-    background: #DAFFFF;
-    margin: auto;
-    font-family: helvetica;
-  }
-  
+  background: #DAFFFF;
+  margin: auto;
+  font-family: helvetica;
+}
+
 header {
-    padding: 20%;
-    margin: auto;
-    max-width: 600px;
-    max-height: 100px;
-    background-color: #FFFFDE;
+  width: 30%;
+  padding: 70px;
+  margin-top: 5%;
+  margin-left: 35%;
+  margin-right: 35%;
+  max-width: 400px;
+  max-height: 50px;
+  background-color: #FFFFDE;
+  text-align: center;
+  line-height: 25px;
+  vertical-align: middle;
 }  
 
 p {
-    font-size: 30px;
+  font-size: 15px;
 }
 
-h2 {
-  font-size: ;
+h1 {
+font-size: 35px;
+line-height: 40px;
 }
