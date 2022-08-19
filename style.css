@@ -40,20 +40,12 @@ hr {
   border-color: brown;
 }
 
-.subject {
-  margin-left: 10%;
-  margin-right: 10%;
-  padding-left: 10%;
-  padding-right: 10%;
-  float: left;
-}
-
-.subjectright {
-  margin-right: 10%;
-  margin-left: 10%;
-  padding-left: 10%;
-  padding-right: 10%;
-  float: left;
+article {
+  background-color: #FFFFDE;
+  border-color: black;
+  padding: auto;
+  height: 500px;
+  width: 500px;
 }
 
 img {
@@ -64,5 +56,6 @@ img {
 .items {
   font-size: 35px;
   margin: auto;
-  padding-left: 200px;
+  padding: auto;
+  text-align: auto;
 }
