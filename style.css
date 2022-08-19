@@ -43,7 +43,7 @@ hr {
 .subject {
   margin-left: 10%;
   margin-right: 10%;
-  padding-left: 2%;
+  padding-left: 5%;
   float: left;
 }
 
@@ -55,8 +55,8 @@ hr {
 }
 
 img {
-  max-width: 400px;
-  max-height: 400px;
+  width: 400px;
+  height: 400px;
 }
 
 .items {
