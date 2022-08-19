@@ -50,17 +50,17 @@ hr {
 .subjectright {
   margin-right: 10%;
   margin-left: 10%;
-  padding-right: 5%;
+  padding-left: 5%;
   float: left;
 }
 
 img {
-  max-width: 500px;
-  max-height: 500px;
+  max-width: 400px;
+  max-height: 400px;
 }
 
 .items {
   font-size: 35px;
   margin: auto;
-  padding: 10px;
+  padding-left: 7%;
 }
