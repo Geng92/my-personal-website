@@ -6,6 +6,10 @@ body {
   
 header {
     padding: 20%;
+    margin: auto;
+    max-width: 600px;
+    max-height: 100px;
+    background-color: #FFFFDE;
 }  
 
 p {
