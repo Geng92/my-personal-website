@@ -50,7 +50,7 @@ hr {
 .subjectright {
   margin-right: 10%;
   margin-left: 10%;
-  padding-left: 5%;
+  padding-left: 10%;
   float: left;
 }
 
@@ -62,5 +62,5 @@ img {
 .items {
   font-size: 35px;
   margin: auto;
-  padding-left: 40px;
+  padding-left: 200px;
 }
