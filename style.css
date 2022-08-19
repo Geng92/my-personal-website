@@ -1,7 +1,17 @@
 body {
-    background: white;
-    margin: center;
+    background: #DAFFFF;
+    margin: auto;
+    font-family: helvetica;
   }
+  
+header {
+    padding: 20%;
+}  
+
 p {
-    font-size: small;
+    font-size: 30px;
+}
+
+h2 {
+  font-size: ;
 }
