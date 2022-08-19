@@ -43,19 +43,42 @@ hr {
 article {
   background-color: #FFFFDE;
   border-color: black;
-  padding: auto;
-  height: 500px;
-  width: 500px;
+  border-width: 10px;
+  padding: 10px;
+  margin-left: 37.7%;
+  height: 390px;
+  width: 400px;
 }
 
 img {
   max-width: 400px;
   max-height: 300px;
+  margin: center;
+  padding: auto;
+
 }
 
 .items {
+  text-align: center;
   font-size: 35px;
-  margin: auto;
+  margin: center;
   padding: auto;
-  text-align: auto;
+}
+
+a {
+  padding-top: 50px;
+  margin-left: 125px;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover{
+  color: red;
+}
+
+a:active{
+  color: red;
 }
