@@ -1,5 +1,5 @@
-const h2 = document.createElement("h2");
+const h3 = document.createElement("h3");
 
-h2.textContent = "Where you will find all the things Geng finds cool about the internet";
+h3.textContent = "Where you will find all the things Geng finds cool about the internet!";
 
-document.querySelector("header").appendChild(h2);
+document.querySelector("header").appendChild(h3);
