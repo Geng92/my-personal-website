@@ -44,14 +44,14 @@ hr {
   margin-left: 10%;
   margin-right: 10%;
   padding-left: 5%;
-  float: center;
+  float: left;
 }
 
 .subjectright {
   margin-right: 10%;
   margin-left: 10%;
   padding-right: 5%;
-  float: center;
+  float: left;
 }
 
 img {
@@ -63,5 +63,5 @@ img {
   font-size: 35px;
   margin: auto;
   padding: 10px;
-  text-align: center;
+  text-align: middle;
 }
